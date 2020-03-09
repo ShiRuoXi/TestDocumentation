@@ -1,7 +1,7 @@
 //https://www.thingjs.com/s/123f5119a292bbf38a213ff6
 module.exports = ctx => ({
     title: '约定文档', 
-  
+    base:'/TestDocumentation/',
     themeConfig: {
         sidebarDepth: 2,
         lastUpdated: 'Last Updated', 
