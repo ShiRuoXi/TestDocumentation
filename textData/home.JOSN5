@@ -1,0 +1,52 @@
+{
+  '1': {
+    temp: '45度',
+    co2: '45度',
+    humidity: '25.14度',
+    msg: '差1'
+  },
+  '2': {
+    onDealing: [2, 20, 50, 30, 40, 50, 70],
+    waitDeal: [50, 58, 4, 84, 50, 70, 40],
+    hadDeal: [70, 85, 150, 518, 17, 80, 89]
+  },
+  '3': {
+    alarmNumber: '5台',
+    normalOperationNumber: '28台',
+    faultNumber: '12251台'
+  },
+  '4': {
+    "A楼": {
+      energyConsumption: '1022',
+      energyDensity: '151217'
+    },
+    "B楼": {
+      energyConsumption: '745',
+      energyDensity: '25'
+    },
+    "群楼": {
+      energyConsumption: '51',
+      energyDensity: '25'
+    },
+    "地下停车场": {
+      energyConsumption: '42',
+      energyDensity: '54'
+    },
+    "总体能耗": {
+      sevEnnergy: ['120', '01', '522', '70', '581', '154', '171'],
+      totalEnnergy: ['88', '251', '40', '215', '354', '77', '851']
+    }
+  },
+  '5': {
+    visitorsVehicle: '70',
+    nonVisitorVehicle: '25',
+    faultParking: '40',
+    remainingSpace: '5'
+  },
+  '6': {
+    fireState: 0,
+    alerts: '0',
+    processed: '0',
+    normal: '2515'
+  }
+}

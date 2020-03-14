@@ -9,9 +9,12 @@ module.exports = ctx => ({
             { text: '项目演示地址', link: '' },
             { text: '关于', link: '' },
         ],
-        sidebar: [
+        sidebar:  
+        [
             ['/', '简介'],
-            ['/dome/home.md', '接口类型说明']
+            ['/dome/home.md', 'webSocket类型说明'],
+            ['/dome/floor.md', 'API类型说明']
         ]
+        
     }
 })
