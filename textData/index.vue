@@ -173,8 +173,8 @@ var vmFloor = new Vue({
   methods: {
     //获取选中的楼层
     floorSelected(val, dex) {
-
-
+   
+      
       this.current = val + dex;
       switch (val) {
         case "A":
